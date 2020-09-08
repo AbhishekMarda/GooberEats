@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DeliveryPlannerImpl::generateDeliveryPlan(GeoCoord const&amp;, std::__1::vector&lt;DeliveryRequest, std::__1::allocator&lt;DeliveryRequest&gt; &gt; const&amp;, std::__1::vector&lt;DeliveryCommand, std::__1::allocator&lt;DeliveryCommand&gt; &gt;&amp;, double&amp;) const:DeliveryPlanner.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*it">
+            </PersistentString>
+            <PersistentString
+               value = "*nextIt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ExpandableHashMap&lt;GeoCoord, StreetSegment&gt;::associate(GeoCoord const&amp;, StreetSegment const&amp;):ExpandableHashMap.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "key.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PointToPointRouterImpl::generatePointToPointRoute(GeoCoord const&amp;, GeoCoord const&amp;, std::__1::list&lt;StreetSegment, std::__1::allocator&lt;StreetSegment&gt; &gt;&amp;, double&amp;) const:PointToPointRouter.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "startingSegs[1]">
+            </PersistentString>
+            <PersistentString
+               value = "startingSegs[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
